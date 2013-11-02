@@ -26,34 +26,33 @@ import (
 // document defines a json document of key value pairs
 type document map[string]interface{}
 
-// documents is used to unmarshal the json document produced by the xslt processing
-type documents struct {
-	Deals []document `json:"deals"`
-}
-
 func main() {
 	// Process the xml against the stylesheet
-	jsonData, err := processXslt(os.Args[1], os.Args[2])
+	jsonData, err := processXslt("stylesheet.xslt", "deals.xml")
 	if err != nil {
 		fmt.Printf("ProcessXslt: %s\n", err)
 		os.Exit(1)
 	}
 
+	// An anonymous struct to unmarshal the json document
+	// produced by the xslt processing
+	documents := struct {
+		Deals []document `json:"deals"`
+	}{}
+
 	// Create a slice of the document
-	dealDocs := documents{}
-	err = json.Unmarshal(jsonData, &dealDocs)
+	err = json.Unmarshal(jsonData, &documents)
 	if err != nil {
 		fmt.Printf("Unmarshal: %s\n", err)
 		os.Exit(1)
 	}
 
-	fmt.Printf("Deals: %d\n\n", len(dealDocs.Deals))
+	fmt.Printf("Deals: %d\n\n", len(documents.Deals))
 
 	// Display the documents
-	for _, deal := range dealDocs.Deals {
-		fmt.Printf("%v\n\n", deal)
+	for _, deal := range documents.Deals {
 		fmt.Printf("DealId: %d\n", int(deal["dealid"].(float64)))
-		fmt.Printf("Title: %s\n\n\n", deal["title"].(string))
+		fmt.Printf("Title: %s\n\n", deal["title"].(string))
 	}
 }
 
@@ -73,6 +72,8 @@ func processXslt(stylesheet string, xmldocument string) (jsonData []byte, err er
 	if err != nil {
 		return jsonData, err
 	}
+
+	fmt.Printf("%s\n", jsonString)
 
 	// Convert to bytes
 	jsonData = []byte(jsonString)
