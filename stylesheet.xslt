@@ -1,38 +1,35 @@
-<?xml version="1.0"?>
-    <xsl:stylesheet version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:str="http://exslt.org/strings"
-extension-element-prefixes="str">
-    <xsl:output method="text" />
-    <xsl:template name="cleanText">
-        <xsl:param name="pText" />
-        <xsl:variable name="cleaned1" select="str:replace($pText, '&quot;', '')" />
-<xsl:variable name="cleaned2" select="str:replace($cleaned1, '\', '')" />
-<xsl:variable name="cleaned3" select="str:replace($cleaned2, '&#xa;', '')" />
-<xsl:value-of select="$cleaned3" />
-    </xsl:template>
-    <xsl:template name="testNull">
-        <xsl:param name="pText" />
-        <xsl:choose>
-            <xsl:when test="string-length($pText)>0">
-                <xsl:value-of select="$pText"/>
-            </xsl:when>
-            <xsl:otherwise>
-                <xsl:text>null</xsl:text>
-            </xsl:otherwise>
-        </xsl:choose>
-    </xsl:template>
-    <xsl:template name="testNullZero">
-        <xsl:param name="pText" />
-        <xsl:choose>
-            <xsl:when test="string-length($pText)>0">
-                <xsl:value-of select="$pText"/>
-            </xsl:when>
-            <xsl:otherwise>
-                <xsl:text>0</xsl:text>
-            </xsl:otherwise>
-        </xsl:choose>
-    </xsl:template>
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:str="http://exslt.org/strings" version="1.0" extension-element-prefixes="str">
+   <xsl:output method="text" />
+   <xsl:template name="cleanText">
+      <xsl:param name="pText" />
+      <xsl:variable name="cleaned1" select="str:replace($pText, '&quot;', '')" />
+      <xsl:variable name="cleaned2" select="str:replace($cleaned1, '\', '')" />
+      <xsl:variable name="cleaned3" select="str:replace($cleaned2, '&#xA;', '')" />
+      <xsl:value-of select="$cleaned3" />
+   </xsl:template>
+   <xsl:template name="testNull">
+      <xsl:param name="pText" />
+      <xsl:choose>
+         <xsl:when test="string-length($pText)&gt;0">
+            <xsl:value-of select="$pText" />
+         </xsl:when>
+         <xsl:otherwise>
+            <xsl:text>null</xsl:text>
+         </xsl:otherwise>
+      </xsl:choose>
+   </xsl:template>
+   <xsl:template name="testNullZero">
+      <xsl:param name="pText" />
+      <xsl:choose>
+         <xsl:when test="string-length($pText)&gt;0">
+            <xsl:value-of select="$pText" />
+         </xsl:when>
+         <xsl:otherwise>
+            <xsl:text>0</xsl:text>
+         </xsl:otherwise>
+      </xsl:choose>
+   </xsl:template>
     <xsl:template match="/">{"deals": [
     <xsl:for-each select="root/response/deals/list-item">{
         "dealid": <xsl:value-of select="id" />,
