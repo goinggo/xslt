@@ -1,2 +1,222 @@
-<?xml version="1.0" encoding="utf-8"?>
-<root><meta><next>http://api.yipit.com/v1/deals?offset=3&amp;limit=3&amp;key=zpEUUKqUNbzeLvEj&amp;format=xml</next><code>200</code><previous></previous></meta><response><deals><list-item><division><name>Los Angeles</name><url>http://yipit.com/los-angeles/</url><country>United States</country><lon>-118.243685</lon><lat>34.052234</lat><active>1</active><time_zone_diff>-8</time_zone_diff><slug>los-angeles</slug></division><yipit_url>http://yipit.com/business/musique/</yipit_url><business><url>http://www.musiquemusic.com/</url><locations><list-item><smart_locality>San Gabriel</smart_locality><locality>San Gabriel</locality><lon>-118.0965566</lon><phone>626-737-8506</phone><state>CA</state><address>311 E Valley Blvd</address><lat>34.0799495</lat><id>455186</id><zip_code>91776</zip_code></list-item></locations><id>405890</id><name>Musique</name></business><end_date>2014-01-27 17:19:06</end_date><title>Learn to Play the Piano or Guitar</title><url>http://yipit.com/aff/eval/deal/?deal=n5cCCNNY&amp;key=NrpXBzuq</url><yipit_title>Four 30-Minute Private Music Lessons</yipit_title><price><raw>49.00</raw><formatted>$49</formatted></price><tags><list-item><url></url><name>Life Skills Classes</name><slug>life-skills-classes</slug></list-item></tags><mobile_url>http://m.yipit.com/business/musique/?bp_ad=1</mobile_url><value><raw>100.00</raw><formatted>$100</formatted></value><discount><raw>51</raw><formatted>51%</formatted></discount><source><url></url><name>LivingSocial</name><paid>0</paid><slug>living-social</slug></source><images><image_big>http://a.yipitcdn.com/thumbor/yrPZmlFzck3Xmp_8EpBYio1JyEc=/fit-in/372x372/a.yipitcdn.com/deal/learn-to-play-the-piano-or-guitar-1383067073.jpg</image_big><image_smart>http://a.yipitcdn.com/thumbor/PvqI_M4DjhXbbAH2pvwMbVA2mS0=/408x357/smart/a.yipitcdn.com/deal/learn-to-play-the-piano-or-guitar-1383067073.jpg</image_smart><image_small>http://a.yipitcdn.com/thumbor/ESbyJEURSD4HLNNP8Hl-NDn7E0Q=/fit-in/212x212/a.yipitcdn.com/deal/learn-to-play-the-piano-or-guitar-1383067073.jpg</image_small></images><date_added>2013-10-29 17:57:12</date_added><active>1</active><id>24978367</id><description>This highly regarded music collective's instructors use specialized methods designed to help students hit nothing but the right notes on musical subjects ranging from basic chord progressions and music theory to performance abilities and sight-reading skills: • $49 ($100 value) for four 30-minute private music lessons for piano or guitar • Teachers make sure the sessions move at a suitable pace and are easy to follow • Both options available to kids and adults of all ability levels "Everyone there is so friendly and very knowledgeable. Amy was able to assess my my child's level, and Kevin was awesome. My kids loved the instructors so much, which will make learning piano fun." - LivingSocial Member Musique's Website | Facebook </description></list-item><list-item><division><name>Boston</name><url>http://yipit.com/boston/</url><country>United States</country><lon>-71.05962</lon><lat>42.3584647</lat><active>1</active><time_zone_diff>-5</time_zone_diff><slug>boston</slug></division><yipit_url>http://yipit.com/business/new-life-health-and-wellness/</yipit_url><business><url>http://www.newlifehealthandwellness.com/Home_Page.html</url><locations><list-item><smart_locality>Marlborough</smart_locality><locality>Marlborough</locality><lon>-71.5781409</lon><phone>508-460-8348</phone><state>MA</state><address>75 Felton St</address><lat>42.3434007</lat><id>1330622</id><zip_code>01752</zip_code></list-item></locations><id>820713</id><name>New Life Health and Wellness</name></business><end_date>2014-01-27 15:41:23</end_date><title>Three-Month Gym Membership</title><url>http://yipit.com/aff/eval/deal/?deal=uLYBzCF7&amp;key=NrpXBzuq</url><yipit_title>Three-Month Gym Membership</yipit_title><price><raw>44.00</raw><formatted>$44</formatted></price><tags><list-item><url></url><name>Gym</name><slug>gym</slug></list-item></tags><mobile_url>http://m.yipit.com/business/new-life-health-and-wellness/?bp_ad=1</mobile_url><value><raw>135.00</raw><formatted>$135</formatted></value><discount><raw>67</raw><formatted>67%</formatted></discount><source><url></url><name>LivingSocial</name><paid>0</paid><slug>living-social</slug></source><images><image_big>http://a.yipitcdn.com/thumbor/1k3vKbCBBP40AJZoJnETNOHxOKk=/fit-in/372x372/a.yipitcdn.com/deal/three-month-gym-membership-20-1383063829.jpg</image_big><image_smart>http://a.yipitcdn.com/thumbor/DUdt31SlU4hKlPgJrbXM5OufLjU=/408x357/smart/a.yipitcdn.com/deal/three-month-gym-membership-20-1383063829.jpg</image_smart><image_small>http://a.yipitcdn.com/thumbor/Nn3HRfmAD05mzWaj9a6yFQ0ZQRY=/fit-in/212x212/a.yipitcdn.com/deal/three-month-gym-membership-20-1383063829.jpg</image_small></images><date_added>2013-10-29 17:18:53</date_added><active>1</active><id>24978116</id><description>Racquetball courts, free weights, cables, bands, balls, and more. This Marlborough fitness center has it all -- so you can shed it all this summer: • $44 ($135 value) for a three-month gym membership  • Eight to ten group fitness classes held weekly (up to two per day)  • Open seven days a week, and until 9 p.m. Monday to Thursday New Life Health and Wellness's Website | Facebook</description></list-item><list-item><division><name>Boston</name><url>http://yipit.com/boston/</url><country>United States</country><lon>-71.05962</lon><lat>42.3584647</lat><active>1</active><time_zone_diff>-5</time_zone_diff><slug>boston</slug></division><yipit_url>http://yipit.com/business/rondeaus-kickboxing/</yipit_url><business><url>http://www.rkblive.com/</url><locations><list-item><smart_locality>Woonsocket</smart_locality><locality>Woonsocket</locality><lon>-71.4887058</lon><phone>401-272-5425</phone><state>RI</state><address>562 Cass Ave</address><lat>42.0060939</lat><id>1288262</id><zip_code>02895</zip_code></list-item></locations><id>69740</id><name>Rondeau's Kickboxing</name></business><end_date>2014-01-27 16:00:03</end_date><title>Let a Former Pro Teach You a Few Kicks of the Trade with One Month of Unlimited Fitness Classes</title><url>http://yipit.com/aff/eval/deal/?deal=bdV2nMkX&amp;key=NrpXBzuq</url><yipit_title>One Month of Unlimited Fitness Classes</yipit_title><price><raw>30.00</raw><formatted>$30</formatted></price><tags><list-item><url></url><name>Fitness Classes</name><slug>fitness-classes</slug></list-item></tags><mobile_url>http://m.yipit.com/business/rondeaus-kickboxing/?bp_ad=1</mobile_url><value><raw>129.00</raw><formatted>$129</formatted></value><discount><raw>77</raw><formatted>77%</formatted></discount><source><url></url><name>LivingSocial</name><paid>0</paid><slug>living-social</slug></source><images><image_big>http://a.yipitcdn.com/thumbor/kbH3Rv5WXp6f4_Dj2LIRBts-c4k=/fit-in/372x372/a.yipitcdn.com/deal/let-a-former-pro-teach-you-a-few-kicks-of-the-trade-with-one-month-of-unlimited-fitness-classes-1383063826.jpg</image_big><image_smart>http://a.yipitcdn.com/thumbor/h5JFI-8XE_OdUA_XVxJN6sHqHFU=/408x357/smart/a.yipitcdn.com/deal/let-a-former-pro-teach-you-a-few-kicks-of-the-trade-with-one-month-of-unlimited-fitness-classes-1383063826.jpg</image_smart><image_small>http://a.yipitcdn.com/thumbor/0bDWWiT0xFNOT7S1AX3noMfVYu8=/fit-in/212x212/a.yipitcdn.com/deal/let-a-former-pro-teach-you-a-few-kicks-of-the-trade-with-one-month-of-unlimited-fitness-classes-1383063826.jpg</image_small></images><date_added>2013-10-29 17:18:30</date_added><active>1</active><id>24978115</id><description>First setting foot in a martial arts studio more than 20 years ago, Christina Rondeau fell in love with the rigorous workouts. Years later, she opened this heavy-hitting gym with the goal of providing fellow athletes a fun space for working on their moves: • $30 ($129 value) for one month of unlimited classes  • Sessions in Woonsocket are great for any skill level  • Includes fitness kickboxing, fitness kickboxing with weights, and group personal training classes Rondeau's Kickboxing's Website | Facebook</description></list-item></deals></response></root>
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <meta>
+      <next>http://api.yipit.com/v1/deals?offset=3&amp;limit=3&amp;key=zpEUUKqUNbzeLvEj&amp;format=xml</next>
+      <code>200</code>
+      <previous />
+   </meta>
+   <response>
+      <deals>
+         <list-item>
+            <division>
+               <name>Los Angeles</name>
+               <url>http://yipit.com/los-angeles/</url>
+               <country>United States</country>
+               <lon>-118.243685</lon>
+               <lat>34.052234</lat>
+               <active>1</active>
+               <time_zone_diff>-8</time_zone_diff>
+               <slug>los-angeles</slug>
+            </division>
+            <yipit_url>http://yipit.com/business/musique/</yipit_url>
+            <business>
+               <url>http://www.musiquemusic.com/</url>
+               <locations>
+                  <list-item>
+                     <smart_locality>San Gabriel</smart_locality>
+                     <locality>San Gabriel</locality>
+                     <lon>-118.0965566</lon>
+                     <phone>626-737-8506</phone>
+                     <state>CA</state>
+                     <address>311 E Valley Blvd</address>
+                     <lat>34.0799495</lat>
+                     <id>455186</id>
+                     <zip_code>91776</zip_code>
+                  </list-item>
+               </locations>
+               <id>405890</id>
+               <name>Musique</name>
+            </business>
+            <end_date>2014-01-27 17:19:06</end_date>
+            <title>Learn to Play the Piano or Guitar</title>
+            <url>http://yipit.com/aff/eval/deal/?deal=n5cCCNNY&amp;key=NrpXBzuq</url>
+            <yipit_title>Four 30-Minute Private Music Lessons</yipit_title>
+            <price>
+               <raw>49.00</raw>
+               <formatted>$49</formatted>
+            </price>
+            <tags>
+               <list-item>
+                  <url />
+                  <name>Life Skills Classes</name>
+                  <slug>life-skills-classes</slug>
+               </list-item>
+            </tags>
+            <mobile_url>http://m.yipit.com/business/musique/?bp_ad=1</mobile_url>
+            <value>
+               <raw>100.00</raw>
+               <formatted>$100</formatted>
+            </value>
+            <discount>
+               <raw>51</raw>
+               <formatted>51%</formatted>
+            </discount>
+            <source>
+               <url />
+               <name>LivingSocial</name>
+               <paid>0</paid>
+               <slug>living-social</slug>
+            </source>
+            <images>
+               <image_big>http://a.yipitcdn.com/thumbor/yrPZmlFzck3Xmp_8EpBYio1JyEc=/fit-in/372x372/a.yipitcdn.com/deal/learn-to-play-the-piano-or-guitar-1383067073.jpg</image_big>
+               <image_smart>http://a.yipitcdn.com/thumbor/PvqI_M4DjhXbbAH2pvwMbVA2mS0=/408x357/smart/a.yipitcdn.com/deal/learn-to-play-the-piano-or-guitar-1383067073.jpg</image_smart>
+               <image_small>http://a.yipitcdn.com/thumbor/ESbyJEURSD4HLNNP8Hl-NDn7E0Q=/fit-in/212x212/a.yipitcdn.com/deal/learn-to-play-the-piano-or-guitar-1383067073.jpg</image_small>
+            </images>
+            <date_added>2013-10-29 17:57:12</date_added>
+            <active>1</active>
+            <id>24978367</id>
+            <description>This highly regarded music collective's instructors use specialized methods designed to help students hit nothing but the right notes on musical subjects ranging from basic chord progressions and music theory to performance abilities and sight-reading skills: • $49 ($100 value) for four 30-minute private music lessons for piano or guitar • Teachers make sure the sessions move at a suitable pace and are easy to follow • Both options available to kids and adults of all ability levels "Everyone there is so friendly and very knowledgeable. Amy was able to assess my my child's level, and Kevin was awesome. My kids loved the instructors so much, which will make learning piano fun." - LivingSocial Member Musique's Website | Facebook</description>
+         </list-item>
+         <list-item>
+            <division>
+               <name>Boston</name>
+               <url>http://yipit.com/boston/</url>
+               <country>United States</country>
+               <lon>-71.05962</lon>
+               <lat>42.3584647</lat>
+               <active>1</active>
+               <time_zone_diff>-5</time_zone_diff>
+               <slug>boston</slug>
+            </division>
+            <yipit_url>http://yipit.com/business/new-life-health-and-wellness/</yipit_url>
+            <business>
+               <url>http://www.newlifehealthandwellness.com/Home_Page.html</url>
+               <locations>
+                  <list-item>
+                     <smart_locality>Marlborough</smart_locality>
+                     <locality>Marlborough</locality>
+                     <lon>-71.5781409</lon>
+                     <phone>508-460-8348</phone>
+                     <state>MA</state>
+                     <address>75 Felton St</address>
+                     <lat>42.3434007</lat>
+                     <id>1330622</id>
+                     <zip_code>01752</zip_code>
+                  </list-item>
+               </locations>
+               <id>820713</id>
+               <name>New Life Health and Wellness</name>
+            </business>
+            <end_date>2014-01-27 15:41:23</end_date>
+            <title>Three-Month Gym Membership</title>
+            <url>http://yipit.com/aff/eval/deal/?deal=uLYBzCF7&amp;key=NrpXBzuq</url>
+            <yipit_title>Three-Month Gym Membership</yipit_title>
+            <price>
+               <raw>44.00</raw>
+               <formatted>$44</formatted>
+            </price>
+            <tags>
+               <list-item>
+                  <url />
+                  <name>Gym</name>
+                  <slug>gym</slug>
+               </list-item>
+            </tags>
+            <mobile_url>http://m.yipit.com/business/new-life-health-and-wellness/?bp_ad=1</mobile_url>
+            <value>
+               <raw>135.00</raw>
+               <formatted>$135</formatted>
+            </value>
+            <discount>
+               <raw>67</raw>
+               <formatted>67%</formatted>
+            </discount>
+            <source>
+               <url />
+               <name>LivingSocial</name>
+               <paid>0</paid>
+               <slug>living-social</slug>
+            </source>
+            <images>
+               <image_big>http://a.yipitcdn.com/thumbor/1k3vKbCBBP40AJZoJnETNOHxOKk=/fit-in/372x372/a.yipitcdn.com/deal/three-month-gym-membership-20-1383063829.jpg</image_big>
+               <image_smart>http://a.yipitcdn.com/thumbor/DUdt31SlU4hKlPgJrbXM5OufLjU=/408x357/smart/a.yipitcdn.com/deal/three-month-gym-membership-20-1383063829.jpg</image_smart>
+               <image_small>http://a.yipitcdn.com/thumbor/Nn3HRfmAD05mzWaj9a6yFQ0ZQRY=/fit-in/212x212/a.yipitcdn.com/deal/three-month-gym-membership-20-1383063829.jpg</image_small>
+            </images>
+            <date_added>2013-10-29 17:18:53</date_added>
+            <active>1</active>
+            <id>24978116</id>
+            <description>Racquetball courts, free weights, cables, bands, balls, and more. This Marlborough fitness center has it all -- so you can shed it all this summer: • $44 ($135 value) for a three-month gym membership  • Eight to ten group fitness classes held weekly (up to two per day)  • Open seven days a week, and until 9 p.m. Monday to Thursday New Life Health and Wellness's Website | Facebook</description>
+         </list-item>
+         <list-item>
+            <division>
+               <name>Boston</name>
+               <url>http://yipit.com/boston/</url>
+               <country>United States</country>
+               <lon>-71.05962</lon>
+               <lat>42.3584647</lat>
+               <active>1</active>
+               <time_zone_diff>-5</time_zone_diff>
+               <slug>boston</slug>
+            </division>
+            <yipit_url>http://yipit.com/business/rondeaus-kickboxing/</yipit_url>
+            <business>
+               <url>http://www.rkblive.com/</url>
+               <locations>
+                  <list-item>
+                     <smart_locality>Woonsocket</smart_locality>
+                     <locality>Woonsocket</locality>
+                     <lon>-71.4887058</lon>
+                     <phone>401-272-5425</phone>
+                     <state>RI</state>
+                     <address>562 Cass Ave</address>
+                     <lat>42.0060939</lat>
+                     <id>1288262</id>
+                     <zip_code>02895</zip_code>
+                  </list-item>
+               </locations>
+               <id>69740</id>
+               <name>Rondeau's Kickboxing</name>
+            </business>
+            <end_date>2014-01-27 16:00:03</end_date>
+            <title>Let a Former Pro Teach You a Few Kicks of the Trade with One Month of Unlimited Fitness Classes</title>
+            <url>http://yipit.com/aff/eval/deal/?deal=bdV2nMkX&amp;key=NrpXBzuq</url>
+            <yipit_title>One Month of Unlimited Fitness Classes</yipit_title>
+            <price>
+               <raw>30.00</raw>
+               <formatted>$30</formatted>
+            </price>
+            <tags>
+               <list-item>
+                  <url />
+                  <name>Fitness Classes</name>
+                  <slug>fitness-classes</slug>
+               </list-item>
+            </tags>
+            <mobile_url>http://m.yipit.com/business/rondeaus-kickboxing/?bp_ad=1</mobile_url>
+            <value>
+               <raw>129.00</raw>
+               <formatted>$129</formatted>
+            </value>
+            <discount>
+               <raw>77</raw>
+               <formatted>77%</formatted>
+            </discount>
+            <source>
+               <url />
+               <name>LivingSocial</name>
+               <paid>0</paid>
+               <slug>living-social</slug>
+            </source>
+            <images>
+               <image_big>http://a.yipitcdn.com/thumbor/kbH3Rv5WXp6f4_Dj2LIRBts-c4k=/fit-in/372x372/a.yipitcdn.com/deal/let-a-former-pro-teach-you-a-few-kicks-of-the-trade-with-one-month-of-unlimited-fitness-classes-1383063826.jpg</image_big>
+               <image_smart>http://a.yipitcdn.com/thumbor/h5JFI-8XE_OdUA_XVxJN6sHqHFU=/408x357/smart/a.yipitcdn.com/deal/let-a-former-pro-teach-you-a-few-kicks-of-the-trade-with-one-month-of-unlimited-fitness-classes-1383063826.jpg</image_smart>
+               <image_small>http://a.yipitcdn.com/thumbor/0bDWWiT0xFNOT7S1AX3noMfVYu8=/fit-in/212x212/a.yipitcdn.com/deal/let-a-former-pro-teach-you-a-few-kicks-of-the-trade-with-one-month-of-unlimited-fitness-classes-1383063826.jpg</image_small>
+            </images>
+            <date_added>2013-10-29 17:18:30</date_added>
+            <active>1</active>
+            <id>24978115</id>
+            <description>First setting foot in a martial arts studio more than 20 years ago, Christina Rondeau fell in love with the rigorous workouts. Years later, she opened this heavy-hitting gym with the goal of providing fellow athletes a fun space for working on their moves: • $30 ($129 value) for one month of unlimited classes  • Sessions in Woonsocket are great for any skill level  • Includes fitness kickboxing, fitness kickboxing with weights, and group personal training classes Rondeau's Kickboxing's Website | Facebook</description>
+         </list-item>
+      </deals>
+   </response>
+</root>
