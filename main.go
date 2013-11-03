@@ -20,7 +20,6 @@ import (
 	"fmt"
 	"os"
 	"os/exec"
-	"runtime"
 )
 
 // document defines a json document of key value pairs
@@ -61,12 +60,7 @@ func processXslt(xslFile string, xmlFile string) (jsonData []byte, err error) {
 	cmd := exec.Cmd{
 		Args: []string{"xsltproc", xslFile, xmlFile},
 		Env:  os.Environ(),
-	}
-
-	if runtime.GOOS == "darwin" {
-		cmd.Path = "./xsltproc_darwin64"
-	} else {
-		cmd.Path = "./xsltproc_linux64"
+		Path: "/usr/bin/xsltproc",
 	}
 
 	// Process the xml against the stylsheet
