@@ -11,7 +11,7 @@
 	Miami, FL 33186
 	bill@ardanstudios.com
 
-	http://www.goinggo.net/2013/10/using-xslt-with-go.html
+	http://www.goinggo.net/2013/11/using-xslt-with-go.html
 */
 package main
 

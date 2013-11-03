@@ -11,7 +11,7 @@ Miami, FL 33186
 bill@ardanstudios.com
 
 GoingGo.net Post:
-http://www.goinggo.net/2013/10/using-xslt-with-go.html
+http://www.goinggo.net/2013/11/using-xslt-with-go.html
 
 	-- Get, build and install the code
 	export GOPATH=$HOME/goinggo
@@ -20,4 +20,4 @@ http://www.goinggo.net/2013/10/using-xslt-with-go.html
 	-- Run the code
 	cd $GOPATH/src/github.com/goinggo/xslt
 	go build
-	./xslt stylesheet.xslt deals.xml
+	./xslt
