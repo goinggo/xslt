@@ -58,7 +58,7 @@ func main() {
 
 // processXslt runs the xml data through the stylesheet to produce the json document for insertion
 func processXslt(xslFile string, xmlFile string) (jsonData []byte, err error) {
-	cmd := &exec.Cmd{
+	cmd := exec.Cmd{
 		Args: []string{"xsltproc", xslFile, xmlFile},
 		Env:  os.Environ(),
 	}
