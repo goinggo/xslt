@@ -58,9 +58,10 @@ func main() {
 
 // processXslt runs the xml data through the stylesheet to produce the json document for insertion
 func processXslt(xslFile string, xmlFile string) (jsonData []byte, err error) {
-	cmd := new(exec.Cmd)
-	cmd.Args = []string{"xsltproc", xslFile, xmlFile}
-	cmd.Env = os.Environ()
+	cmd := &exec.Cmd{
+		Args: []string{"xsltproc", xslFile, xmlFile},
+		Env:  os.Environ(),
+	}
 
 	if runtime.GOOS == "darwin" {
 		cmd.Path = "./xsltproc_darwin"
