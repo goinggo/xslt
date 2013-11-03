@@ -64,9 +64,9 @@ func processXslt(xslFile string, xmlFile string) (jsonData []byte, err error) {
 	}
 
 	if runtime.GOOS == "darwin" {
-		cmd.Path = "./xsltproc_darwin"
+		cmd.Path = "./xsltproc_darwin64"
 	} else {
-		cmd.Path = "./xsltproc_linux"
+		cmd.Path = "./xsltproc_linux64"
 	}
 
 	// Process the xml against the stylsheet
