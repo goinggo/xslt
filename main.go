@@ -35,9 +35,9 @@ func main() {
 
 	// An anonymous struct to unmarshal the json document
 	// produced by the xslt processing.
-	documents := struct {
+	var documents struct {
 		Deals []document `json:"deals"`
-	}{}
+	}
 
 	// Create a slice of the document
 	if err := json.Unmarshal(jsonData, &documents); err != nil {
